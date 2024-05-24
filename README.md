@@ -1,6 +1,6 @@
 # Evaluacion Final - Programacion Orientada a Objetos
 
-Este repositorio contiene el proyecto desarrollado por Juan Sebastian Silva Caicedo para la evaluacion final de la asignatura Herramientas Computacionales.
+Este repositorio contiene el proyecto desarrollado por Juan Sebastian Silva Caicedo y Juan Camilo Figueroa Suarez para la evaluacion final de la asignatura Herramientas Computacionales.
 
 ## Descripcion del proyecto
 
